@@ -1,10 +1,10 @@
-# enjoywave's blog  
+ # enjoywave's blog  
 
 ---
-
+주소 : https://www.enjoywave.site  
 - 소개 
 
-  > title : 인웨브(enwav)의 코딩하는공간
+  > title : 인웨브(enwav)의 코딩블로그
   >
   > author name : 김범모 (BeommoKim)  
   >
