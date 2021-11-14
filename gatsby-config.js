@@ -1,14 +1,14 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `인웨브(enwav)의 코딩하는공간`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `김범모`,
+      summary: '하다보면 언젠간 되겠지',
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
+    description: `인웨브(enwav)의 코딩하는공간`,
+    siteUrl: `https://enjoywave.site`,
     social: {
-      twitter: `kylemathews`,
+      github: `enjoywave`,
     },
   },
   plugins: [
