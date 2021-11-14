@@ -101,7 +101,6 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: var(--font-heading);
   margin-top: var(--spacing-12);
   margin-bottom: var(--spacing-6);
   line-height: var(--lineHeight-tight);
@@ -113,6 +112,7 @@ h3,
 h4,
 h5,
 h6 {
+  font-family: var(--font-heading);
   font-weight: var(--fontWeight-bold);
   color: var(--color-heading);
 }

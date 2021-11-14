@@ -1,9 +1,9 @@
 module.exports = {
   siteMetadata: {
-    title: `인웨브(enwav)의 코딩하는공간`,
+    title: `인웨브(enwav)의 코딩블로그`,
     author: {
       name: `김범모`,
-      summary: '하다보면 언젠간 되겠지',
+      summary: '"하다보면 언젠간 되겠지"',
     },
     description: `인웨브(enwav)의 코딩하는공간`,
     siteUrl: `https://enjoywave.site`,
