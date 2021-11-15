@@ -51,8 +51,8 @@ const Bio = () => {
           {` `}
           </p>
           <p>
-          <a href='https://www.github.com/enjoywave' target > {/*${social?.github || ``}`}>*/} GitHub </a>
-          <a href='https://www.instagram.com/oiii.ov/'> Instagram </a>
+          <a href='https://www.github.com/enjoywave' target='_blank' rel='noopener noreferrer' > {/*${social?.github || ``}`}>*/} GitHub </a>
+          <a href='https://www.instagram.com/oiii.ov/' target='_blank' rel='noopener noreferrer' > Instagram </a>
           </p>
         </p>
       )}

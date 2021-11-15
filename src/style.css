@@ -242,7 +242,7 @@ a:focus {
 /* Custom classes */
 
 .global-wrapper {
-  margin: var(--spacing-0) auto;
+  margin: var(--spacing-0) auto; 
   max-width: var(--maxWidth-wrapper); 
   padding: var(--spacing-10) var(--spacing-5);
 }
@@ -253,12 +253,13 @@ a:focus {
 
 .global-header {
   margin-bottom: var(--spacing-12);
+  /* max-width: 620px; */
 }
 
 .main-heading {
-  font-size : 3rem;
-  /* font-size: var(--fontSize-7); */
-  margin: 0;
+  /* font-size : 3em; */
+  width: 100%;
+  font-size: var(--fontSize-7);
 }
 
 .post-list-item {

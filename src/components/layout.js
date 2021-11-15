@@ -26,13 +26,12 @@ const Layout = ({ location, title, children }) => {
       <main>{children}</main>
       <footer>
         © {new Date().getFullYear()} 
-        <a target='_blank' rel='noopener noreferrer' href = 'https://www.enjoywave.site'> <b>김범모</b> </a>
+        <a href ='https://www.enjoywave.site'> <b>김범모</b> </a>
         powered by
         {` `}
-        <a target='_blank' rel='noopener noreferrer' href= 'https://www.gatsbyjs.com'> Gatsby </a>
+        <a href ='https://www.gatsbyjs.com'> Gatsby </a>
       </footer>
     </div>
   )
 }
-
 export default Layout
