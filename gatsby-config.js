@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: `인웨브(enwav)의 코딩블로그`,
+    title: `enjoywave | 파도를 즐겨라`,
     author: {
       name: `김범모`,
       summary: '"하다보면 언젠간 되겠지"',

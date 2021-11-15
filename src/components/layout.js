@@ -25,11 +25,11 @@ const Layout = ({ location, title, children }) => {
       <header className="global-header">{header}</header>
       <main>{children}</main>
       <footer>
-        © {new Date().getFullYear()}
-        <a href = 'https://www.enjoywave.site'> <b> 김범모 </b></a>
+        © {new Date().getFullYear()} 
+        <a target='_blank' rel='noopener noreferrer' href = 'https://www.enjoywave.site'> <b>김범모</b> </a>
         powered by
         {` `}
-        <a href="https://www.gatsbyjs.com"> Gatsby </a>
+        <a target='_blank' rel='noopener noreferrer' href= 'https://www.gatsbyjs.com'> Gatsby </a>
       </footer>
     </div>
   )
